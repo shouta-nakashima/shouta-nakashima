@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/shota_nakaji?style=social">
 <!--
 **shouta-nakashima/shouta-nakashima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -9,9 +9,6 @@
 <h3 align="center">A passionate frontend developer from Japan</h3>
 
 
-
-
-
 <p align="left"> 
   <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shouta-nakashima&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=tokyonight" />
   <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=shouta-nakashima&count_private=true&show_icons=true&show_icons=true&theme=tokyonight" />

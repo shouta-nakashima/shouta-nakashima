@@ -1,15 +1,16 @@
-<img align="center" width="500" src="./image/hello-world.png" alt="hello-world" />
-<h1 align="center">Hi 👋, I'm Nakaji</h1>
-<h3 align="center">A passionate frontend developer from Japan</h3>
-
 <p align="left">
-  <img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fshota_nakaji">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/shota_nakaji?style=social">
- 
+  <a href="https://twitter.com/shota_nakaji" target="blank"><img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fshota_nakaji"></a>
+<a href="https://twitter.com/shota_nakaji" target="blank"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/shota_nakaji?style=social"></a>
   <img alt="Twitter URL" src="https://komarev.com/ghpvc/?username=shouta-nakashima&color=blueviolet">
 </p>
 
-<p align="left"> <a href="https://twitter.com/shota_nakaji" target="blank"><img src="https://img.shields.io/twitter/follow/shota_nakaji?logo=twitter&style=for-the-badge" alt="shota_nakaji" /></a> </p>
+<img align="center" width="1500" style="object-fit: cover"  src="./image/main_image.png" alt="hello-world" />
+<h1  align="center">Hi 👋, I'm Nakaji</h1>
+<h3 align="center">A passionate frontend developer from Japan</h3>
+
+
+
+
 
 <p align="left"> 
   <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shouta-nakashima&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=tokyonight" />

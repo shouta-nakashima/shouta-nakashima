@@ -1,3 +1,4 @@
+<img align="center" width="500" src="./image/hello-world.png" alt="hello-world" />
 <h1 align="center">Hi 👋, I'm Nakaji</h1>
 <h3 align="center">A passionate frontend developer from Japan</h3>
 
